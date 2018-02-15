@@ -19,7 +19,7 @@ import java.util.Random;
 //****************************************************************************
 public class DiceRoll {
 
-	public static void RollDie(int maxValue) {
+    public static void RollDie(int maxValue) {
     	//Roll dice
 
     	Random rand = new Random();
