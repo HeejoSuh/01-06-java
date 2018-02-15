@@ -64,4 +64,4 @@ public class DiceRoll {
     			
     
     }//closing for main
-}//closing for public class DiceGame
+}//closing for public class DiceRoll
